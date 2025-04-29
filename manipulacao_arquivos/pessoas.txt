@@ -1,0 +1,4 @@
+Nome: Eduardo, Idade: 37
+Nome: Renata, Idade: 34
+Nome: Maria, Idade: 62
+Nome: Helio, Idade: 68
